@@ -1,0 +1,19 @@
+Make an app that can replace flight controller completely.
+Or upgrade a flight controller with in built gps and all.
+
+
+
+MPU9250 9-Axis Attitude Gyro Accelerator Magnetometer Sensor Module [664]
+
+NEO-6M GPS Module with EPROM [199]
+NEO-M8N GPS Module with Ceramic Active Antenna [850]
+
+BMP280 Barometric Pressure and Altitude [25]
+
+Buzzer
+
+High Definition 1200TVL CMOS Camera with 2.1mm Lens FPV Camera for RC Drone Multi-Copter [1591]*
+5.8G and 2.4G 151CH OTG Wi-Fi dual FPV AV Receiver for IOS & Android Smart Phones[2890]
+5.8G UVC OTG Android AV Phone Receiver[2432]*
+
+Bluetooth
